@@ -1,0 +1,604 @@
+@media screen and (max-width: 600px){
+    .col-xs-1 {
+       width: 8.33%;
+    }
+    .col-xs-2 {
+       width: 16.66%;
+    }
+   
+    .col-xs-3 {
+       width: 25%;
+    }
+    .col-xs-4 {
+       width: 33.32%;
+    }
+    .col-xs-5 {
+       width: 41.5%;
+    }
+    .col-xs-6 {
+       width: 50%;
+    }
+    .col-xs-7 {
+       width: 58.31%;
+    }
+    .col-xs-8 {
+       width: 66.64%;
+    }
+    .col-xs-9 {
+       width: 75%;
+    }
+    .col-xs-10 {
+       width: 83.3%;
+    }
+    .col-xs-11 {
+       width: 91.3%;
+    }
+    .col-xs-12 {
+       width: 100%;
+    }
+    .col-xs-offset-0{
+   margin-right: 0;
+    }
+     .col-xs-offset-1 {
+       margin-right: 8.33%;
+    }
+    .col-xs-offset-2 {
+       margin-right: 16.66%;
+    }
+   
+    .col-xs-offset-3 {
+       margin-right: 25%;
+    }
+    .col-xs-offset-4 {
+       margin-right: 33.32%;
+    }
+    .col-xs-offset-5 {
+       margin-right: 41.5%;
+    }
+    .col-xs-offset-6 {
+       margin-right: 50%;
+    }
+    .col-xs-offset-7 {
+       margin-right: 58.31%;
+    }
+    .col-xs-offset-8 {
+       margin-right: 66.64%;
+    }
+    .col-xs-offset-9 {
+       margin-right: 75%;
+    }
+    .col-xs-offset-10 {
+       margin-right: 83.3%;
+    }
+    .col-xs-offset-11 {
+   margin-right: 91.3%;
+    }
+    .col-xs-offset-12 {
+       margin-right: 100%;
+    }
+  }
+ 
+  @media screen and (min-width:600px){
+ 
+    .col-s-1 {
+       width: 8.33%;
+    }
+    .col-s-2 {
+       width: 16.66%;   
+    }
+   
+    .col-s-3 {
+       width: 25%;
+    }
+    .col-s-4 {
+       width: 33.32%;
+    }
+    .col-s-5 {
+       width: 41.5%;
+    }
+    .col-s-6 {
+       width: 50%;
+    }
+    .col-s-7 {
+       width: 58.31%;
+    }
+    .col-s-8 {
+       width: 66.64%;
+    }
+    .col-s-9 {
+       width: 75%;
+    }
+    .col-s-10 {
+       width: 83.3%;
+    }
+    .col-s-11 {
+       width: 91.3%;
+    }
+    .col-s-12 {
+       width: 100%;
+    }
+    .col-s-offset-0{
+      margin-right: 0;
+       }
+        .col-s-offset-1{
+          margin-right: 8.33%;
+       }
+       .col-s-offset-2{
+          margin-right: 16.66%;
+       }
+      
+       .col-s-offset-3 {
+          margin-right: 25%;
+       }
+       .col-s-offset-4 {
+          margin-right: 33.32%;
+       }
+       .col-s-offset-5 {
+          margin-right: 41.5%;
+       }
+       .col-s-offset-6 {
+          margin-right: 50%;
+       }
+       .col-s-offset-7 {
+          margin-right: 58.31%;
+       }
+       .col-s-offset-8 {
+          margin-right: 66.64%;
+       }
+       .col-s-offset-9 {
+          margin-right: 75%;
+       }
+       .col-s-offset-10 {
+          margin-right: 83.3%;
+       }
+       .col-s-offset-11 {
+      margin-right: 91.3%;
+       }
+       .col-s-offset-12 {
+          margin-right: 100%;
+       }
+  }
+ 
+  @media screen and (min-width:768px){
+ 
+    .col-md-1 {
+       width: 8.33%;
+    }
+    .col-md-2 {
+       width: 16.66%;
+    }
+   
+    .col-md-3 {
+       width: 25%;
+    }
+    .col-md-4 {
+       width: 33.32%;
+    }
+    .col-md-5 {
+       width: 41.5%;
+    }
+    .col-md-6 {
+       width: 50%;
+    }
+    .col-md-7 {
+       width: 58.31%;
+    }
+    .col-md-8 {
+       width: 66.64%;
+    }
+    .col-md-9 {
+       width: 75%;
+    }
+    .col-md-10 {
+       width: 83.3%;
+    }
+    .col-md-11 {
+       width: 91.3%;
+    }
+    .col-md-12 {
+       width: 100%; }
+    
+    .col-md-offset-0{
+      margin-right: 0;
+       }
+        .col-md-offset-1 {
+          margin-right: 8.33%;
+       }
+       .col-md-offset-2 {
+          margin-right: 16.66%;
+       }
+      
+       .col-md-offset-3 {
+          margin-right: 25%;
+       }
+       .col-md-offset-4 {
+          margin-right: 33.32%;
+       }
+       .col-md-offset-5 {
+          margin-right: 41.5%;
+       }
+       .col-md-offset-6 {
+          margin-right: 50%;
+       }
+       .col-md-offset-7 {
+          margin-right: 58.31%;
+       }
+       .col-md-offset-8 {
+          margin-right: 66.64%;
+       }
+       .col-md-offset-9 {
+          margin-right: 75%;
+       }
+       .col-md-offset-10 {
+          margin-right: 83.3%;
+       }
+       .col-md-offset-11 {
+      margin-right: 91.3%;
+       }
+       .col-md-offset-12 {
+          margin-right: 100%;
+       }
+  }
+  
+ @media screen and (min-width:992px){
+ 
+    .col-l-1 {
+       width: 8.33%;
+    }
+    .col-l-2 {
+       width: 16.66%;
+    }
+   
+    .col-l-3 {
+       width: 25%;
+    }
+    .col-l-4 {
+       width: 33.32%;
+    }
+    .col-l-5 {
+       width: 41.5%;
+    }
+    .col-l-6 {
+       width: 50%;
+    }
+    .col-l-7 {
+       width: 58.31%;
+    }
+    .coll-8 {
+       width: 66.64%;
+    }
+    .col-l-9 {
+       width: 75%;
+    }
+    .col-l-10 {
+       width: 83.3%;
+    }
+    .col-l-11 {
+       width: 91.3%;
+    }
+    .col-l-12 {
+       width: 100%;
+    }
+    .col-l-offset-0{
+      margin-right: 0;
+       }
+        .col-l-offset-1 {
+          margin-right: 8.33%;
+       }
+       .col-l-offset-2 {
+          margin-right: 16.66%;
+       }
+      
+       .col-l-offset-3 {
+          margin-right: 25%;
+       }
+       .col-l-offset-4 {
+          margin-right: 33.32%;
+       }
+       .col-l-offset-5 {
+          margin-right: 41.5%;
+       }
+       .col-l-offset-6 {
+          margin-right: 50%;
+       }
+       .col-l-offset-7 {
+          margin-right: 58.31%;
+       }
+       .col-l-offset-8 {
+          margin-right: 66.64%;
+       }
+       .col-l-offset-9 {
+          margin-right: 75%;
+       }
+       .col-l-offset-10 {
+          margin-right: 83.3%;
+       }
+       .col-l-offset-11 {
+      margin-right: 91.3%;
+       }
+       .col-l-offset-12 {
+          margin-right: 100%;
+       }
+ }
+ @media screen and (min-width : 1200px){
+    .col-xl-1 {
+       width: 8.33%;
+    }
+    .col-xl-2 {
+       width: 16.66%;
+    }
+   
+    .col-xl-3 {
+       width: 25%;
+    }
+    .col-xl-4 {
+       width: 33.32%;
+    }
+    .col-xl-5 {
+       width: 41.5%;
+    }
+    .col-xl-6 {
+       width: 50%;
+    }
+    .col-xl-7 {
+       width: 58.31%;
+    }
+    .col-xl-8 {
+       width: 66.64%;
+    }
+    .col-xl-9 {
+       width: 75%;
+    }
+    .col-xl-10 {
+       width: 83.3%;
+    }
+    .col-xl-11 {
+       width: 91.3%;
+    }
+    .col-xl-12 {
+       width: 100%;
+    }
+    .col-xl-offset-0{
+      margin-right: 0;
+       }
+        .col-xl-offset-1 {
+          margin-right: 8.33%;
+       }
+       .col-xl-offset-2 {
+          margin-right: 16.66%;
+       }
+      
+       .col-xl-offset-3 {
+          margin-right: 25%;
+       }
+       .col-xl-offset-4 {
+          margin-right: 33.32%;
+       }
+       .col-xl-offset-5 {
+          margin-right: 41.5%;
+       }
+       .col-xl-offset-6 {
+          margin-right: 50%;
+       }
+       .col-xl-offset-7 {
+          margin-right: 58.31%;
+       }
+       .col-xl-offset-8 {
+          margin-right: 66.64%;
+       }
+       .col-xl-offset-9 {
+          margin-right: 75%;
+       }
+       .col-xl-offset-10 {
+          margin-right: 83.3%;
+       }
+       .col-xl-offset-11 {
+      margin-right: 91.3%;
+       }
+       .col-xl-offset-12 {
+          margin-right: 100%;
+       
+ } }
+
+ .img-responsive{
+   height: auto;
+   width: 100%;
+ }
+ .container{
+   max-width: 1200px;
+   margin: 0 auto;
+
+ }
+ .row::after{
+   content: ''
+   ;
+   clear: both;
+   display: table;
+ }
+
+ [class *="col-"]{
+   padding: 0 15px;
+   float: right;
+ }
+ .name{
+   text-align: right;
+   
+}
+.float-right{
+    float: right;
+}
+.clearfix{
+    clear: both;
+}
+.preview{
+   text-align: justify;
+   font-family: vazir;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin and padding */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set default font size and line height */
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* Remove list styles */
+ol,
+ul {
+  list-style: none;
+}
+
+/* Remove default hyperlink styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Remove outline on focused elements */
+:focus {
+  outline: none;
+}
+
+/* Remove default form styles */
+button,
+input,
+select,
+textarea {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+/* Set images to be responsive */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Add any additional styles or resets below this line */
+
+body{
+    font-family: vazir;
+}
+/* start navigation section */
+header nav button{
+    background-color: #3C486B;
+    padding: 10px;
+    border-radius: 30%;
+    /* adjust the border-radius */
+    color: white;
+    margin-inline: 20px;
+    margin-top: 10px;
+width: 80px;
+transition: 0.4s linear;
+}
+header nav{
+    text-align: center;
+    background-color: #F9D949;
+    min-height: 70px;
+}
+header nav button:hover{
+    transform: translateY(10px);
+    background-color: white;
+    color: black;
+}
+/* end navigation section */
+section article p,li{
+    font-size: 20px;
+    line-height: 35px;
+    text-align: justify;
+    margin-inline: 25px;
+}
+section article{
+    margin-top: 20px;
+}
+section article h1{
+    font-size: 30px;
+    margin-inline: 25px;
+}
+.text-container{
+    margin-top: 20px;
+}
+ul{
+    list-style-type: decimal;
+}
+.attention{
+    font-weight: bold;
+   
+    color: red;
+}
+.exceptional-container{margin: 0 auto;}.phone-number,.office-number,.whatsapp{text-align: left;}.instagram{text-align: center;}.time-for-work-online{text-align: left;}footer i {font-size: 20px;font-weight: 500;padding-left: 10px;padding-top: 10px;color: #F9E2AF;}footer img{height: 24px;width: 24px;margin-left: -3px;vertical-align: -4px;}footer span{color: white;font: italic 400 17px 'Schibsted Grotesk', sans-serif;}footer p,.time-for-work-online span{color: yellow;}footer .instagram i{padding: 0;}address{color: white;margin-right: 5px;}footer{min-height: 30%;min-width: 100%;position: relative;bottom: 0;background-color: #009FBD;font-family: vazir!important;}.time-for-work-online span{font-family: vazir!important;}h1,h2,h3,h4,.benefit-arrows span{color: black;}.benefit-arrows i{font-size: 25px;vertical-align: -5px;}@media screen and (max-width:1100px){}@media screen and (max-width:405px){footer{left: 0;right: 0;}}@media screen and (max-width:599px){#info-h3{animation-name: none;}}.line{background-color: gold;}@media screen and (max-width:1115px){.whatsapp{margin-top: -24px;}}@media screen and (max-width:767px){.whatsapp{margin-top: unset;}}footer span::selection{background-color: red;color: white;}footer i::selection{background-color: red;}footer p::selection{background-color: red;}.justice{float: left;height: 25%;width: 25%;object-fit: contain;margin-top: -140px;border-radius: 100%;border: 10px solid yellow;}body{overflow-x: hidden;}h1{clear: left;font-size: 30px;}@media screen and (max-width:580px){h1,h2,.paragraphs{color: black;}#info-h3{background-color: #1D81F7;}}header nav button:hover{transform: translateY(10px);}@media screen and(max-width:1100px){body{overflow: hidden;}}@media screen and (max-width:610px){.justice-parent{display: block;text-align: center;margin-top: 150px;}.justice{float: unset!important;}}
+.old-phone{
+    height: 24px;
+    width: 24px;
+    margin-left: -3px;
+    vertical-align: -4px;}
+  html{
+    scroll-behavior: smooth;
+  }
+  .whatsapp{
+    margin-top: -25px;
+  }
+/* first, publish the article doc */
+
+/* add the logo there
+
+style the button a little bit
+
+replace the blogs inside of the article doc*/
+@media screen and (max-width:600px){
+   h1{
+      font-size: 27px!important;
+   }
+}
+@media screen and (max-width:520px){
+   header nav button{
+     width: 66px;
+     margin-inline: 10px;
+      
+   }
+}
+article span{
+    font-weight: bold;
+    font-size: 21px;
+}
+.exceptional-list li span{
+font-weight: bold;
+
+
+}
+.exceptional-list li p{
+    display: inline;
+    margin-right: 5px;
+}
